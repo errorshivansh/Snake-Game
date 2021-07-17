@@ -119,3 +119,8 @@ This project is distributed under the [MIT License](LICENSE).
 - [Machine Learning for Humans, Part 5: Reinforcement Learning](https://medium.com/machine-learning-for-humans/reinforcement-learning-6eacf258b265)
 - [Coding “Snake” in 4 min 30 sec](https://www.youtube.com/watch?v=xGmXxpIj6vs)
 - [Q-Learning-Python-Example](https://github.com/hasanIqbalAnik/q-learning-python-example)
+
+
+## Credit
+- Spck 
+- All Devlopers
